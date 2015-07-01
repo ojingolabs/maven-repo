@@ -1,0 +1,3 @@
+#!/bin/sh
+
+java -jar nexus-indexer-3.0.4-cli.jar -n ojingo-maven-repo-github -r ../repository/ -i ../repository/ -d ../repository/
